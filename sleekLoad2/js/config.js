@@ -10,7 +10,7 @@
 // Leave it blank to use text instead
 // (Put the files in the images folder)
 // (You can also use external URL)
-var l_serverImage = "logo.png";
+var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Excel Servers";
+var l_serverName = "";
 
 // Use a video for the background?
 // Otherwise it will use images
