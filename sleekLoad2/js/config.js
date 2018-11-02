@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "";
+var l_serverName = "Excel Servers";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -72,14 +72,13 @@ var l_bgImageMapBased = false;
 // (Place the files in the backgrounds/images folder)
 // (You can also use external URL)
 var l_bgImages = [
-	"https://img00.deviantart.net/694c/i/2012/314/3/5/scp_foundation___background_1_by_zenith_strife-d5kjyab.png",
-	"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/4a9db6f2-49f4-4435-992a-74ddc5106896/d6jisbo-523aed97-4323-4e2d-a3ba-00f732aca590.jpg/v1/fill/w_1024,h_684,q_70,strp/scp___173_by_nexnirvos_d6jisbo-fullview.jpg",
-	"https://img00.deviantart.net/7930/i/2015/034/e/a/scp_173_containment_breach_by_isogonica-d8glq27.png",
-	"https://img00.deviantart.net/17b7/i/2015/034/3/c/scp_354_containment_breach_by_isogonica-d8glr5c.png",
-	"https://img00.deviantart.net/b0f0/i/2015/034/d/b/scp_035_contaminated_sewer_by_isogonica-d8glyvt.png",
-	"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/015d0568-f110-4294-8511-cf3ed0208f82/dc2lvgk-e27e8072-3627-4cbc-8557-a794e2412609.jpg/v1/fill/w_1024,h_576,q_70,strp/scp_939_has_escaped__all_mtf_nu_7_please_engage_by_dracoscurra_dc2lvgk-fullview.jpg",
-	"https://orig00.deviantart.net/b0a2/f/2017/126/a/f/mobile_task_force___scp_foundation__2__by_leocwm-db2ev66.png",
-	"https://orig00.deviantart.net/3d66/f/2017/319/3/4/scp_1048_by_amamidori-dbrdtyl.png",
+	"1.png",
+	"2.png",
+	"3.png",
+	"4.png",
+	"5.png",
+	"1.jpg",
+	"2.jpg",
 ];
 
 // (Image-background only)
